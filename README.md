@@ -5,3 +5,5 @@
 "week2-SpringBoot_Maven" is uploaded in zip folder, due to there are more than 100 files in that folder.
 
 "Week3-SpringDataJPA_Hibernate" is uploaded in zip folder, due to there are more than 100 files in that folder.
+
+"week4-SpringBoot" is uploaded in zip folder, due to there are more than 100 files in that folder.
